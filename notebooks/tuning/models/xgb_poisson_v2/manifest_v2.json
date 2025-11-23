@@ -1,5 +1,5 @@
 {
-    "fecha_export": "2025-11-23 10:53:01",
+    "fecha_export": "2025-11-23 16:27:35",
     "modelo_tipo": "XGBoost_Poisson_reg_squarederror_combinado",
     "models": {
         "poisson_1": "booster_poisson_plato_1.json",
